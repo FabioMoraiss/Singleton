@@ -39,7 +39,7 @@ logger.error("Erro crítico detectado");
 [2025-09-01 19:22:11] [WARNING] [Thread: main] Aviso importante
 [2025-09-01 19:22:11] [ERROR] [Thread: main] Erro crítico detectado
 ```
-#UML 
+# UML 
 
 <img width="890" height="402" alt="image" src="https://github.com/user-attachments/assets/1df7ffa4-5bb9-4497-b324-2bebf08ef566" />
 
